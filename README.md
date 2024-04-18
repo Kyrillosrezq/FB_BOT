@@ -1,11 +1,17 @@
 ## FB_BOT ##
 it's a simple tool for control and master facebook accounts using cookies, and use them
 for those functions:
+
 [1] Likes 
+
 [2] Comments
+
 [3] ADD friends
+
 [4] Follows
+
 [5] Group Joins
+
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 how to use it :
