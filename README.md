@@ -20,9 +20,6 @@ FACEBOOKID:PASSWORD:COOKIES
 if you dont have facebook id or password and just have cookies , leave the facebookid and password place
 empety but use a SPACE , like this -->       :   :COOKIES
 
-whan you add a link for a post, profile, page or whatever , you have to replace "www" with "mbasic"
-for example :
-the link : https://www.facebook.com/2839182382 --> make it --> https://mbasic.facebook.com/2839182382
 
 ________________________________________________________________________________________________________
 to get your password please contact me at whatsapp on this number +201022399797
