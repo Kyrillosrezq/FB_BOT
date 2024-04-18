@@ -1,15 +1,24 @@
-#FB BOT Tool
-Engineered with precision using Python, this multifaceted tool revolutionizes your Facebook experience. Effortlessly managing multiple accounts, it employs sophisticated cookie authentication techniques to navigate the platform undetected. Seamlessly orchestrating interactions, it facilitates:
--likes
--comments
--friend requests
--follows
--group join
-all this with unparalleled efficiency.
+## FB_BOT ##
+it's a simple tool for control and master facebook accounts using cookies, and use them
+for those functions:
+[1] Likes 
+[2] Comments
+[3] ADD friends
+[4] Follows
+[5] Group Joins
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+how to use it :
+you have to put facebook cookies in the file "accs.txt" as this formate :
+FACEBOOKID:PASSWORD:COOKIES
+if you dont have facebook id or password and just have cookies , leave the facebookid and password place
+empety but use a SPACE , like this -->       :   :COOKIES
 
-Unlock the full potential of your online presence with this versatile tool. Whether you're looking to elevate your personal account, grow your group, or expand your page's reach, this tool serves as your digital ally. Harness its capabilities to create virtual assistants tailored to your needs, automating tasks and maximizing engagement.
+whan you add a link for a post, profile, page or whatever , you have to replace "www" with "mbasic"
+for example :
+the link : https://www.facebook.com/2839182382 --> make it --> https://mbasic.facebook.com/2839182382
 
-But its utility extends far beyond the realms of social networking. From digital marketing endeavors to community management initiatives, this tool empowers you to tackle a diverse array of tasks with ease.
-
-Ready to supercharge your Facebook strategy? Contact me to learn more and get started today!
-Whatsapp : +201022399797
+________________________________________________________________________________________________________
+to get your password please contact me at whatsapp on this number +201022399797
+________________________________________________________________________________________________________
+Created By. Kyrillos El Wajeeh   
